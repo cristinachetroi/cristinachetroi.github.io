@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://cristinachetroi.github.io/posts/my-first-post/</loc>
-    <lastmod>2018-09-09T14:54:33+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cristinachetroi.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -26,6 +21,10 @@
     <loc>https://cristinachetroi.github.io/</loc>
     <lastmod>2018-09-09T15:54:04+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cristinachetroi.github.io/posts/my-first-post/</loc>
   </url>
   
   <url>
